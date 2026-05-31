@@ -53,7 +53,11 @@ Mercury near saturn :
 # Credits 
 
 Credits are given to Kues 1 on Magnific for the main space image.
+
+
 The source of the other images is NASA.
+
+
 Pixel art was done by me for other pictures and the logo.
 
 
