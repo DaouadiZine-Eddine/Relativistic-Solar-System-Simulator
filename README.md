@@ -16,9 +16,18 @@ Nevertheless, I believe I have achieved what I wanted to do with this project wh
 In order to use the simulator, follow these instructions :
 
 -> Download the ZIP folder associated with the project on github.
+
+
 -> Open it, and launch "Launcher.py".
--> Select your language.
+
+
+-> Select your language. Choose your language using the ENTER key and switch between languages using the arrow keys.
+
+
+
 -> You can now use the simulator, by pressing the button to launch it. 
+
+
 
 In the simulator, press V to switch between ways to view the solar system.
 
